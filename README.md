@@ -1,6 +1,6 @@
 # survey-form :page_with_curl:
 
-## What is this project?
+## What is this project? :bulb:
 
 A responsive form built with vanilla HTML & CSS.
 
